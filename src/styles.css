@@ -2,6 +2,11 @@ body {
   background-color: bisque;
 }
 
+.main-div {
+  width: 80%;
+  height: 80%;
+}
+
 h1 {
   font-weight: bold;
 }

@@ -10,7 +10,7 @@ function App() {
   }
 
   return (
-    <div>
+    <div className="main-div">
       <h1>This is a fullstack dummy app</h1>
       <h2>Using it to learn some DevOps</h2>
       <h3>Let's stay in touch!</h3>
