@@ -11,7 +11,9 @@ function App() {
 
   return (
     <div style={{ fontFamily: "sans-serif", padding: 40 }}>
-      <h1>React + Express Fullstack</h1>
+      <h1>This is a fullstack dummy app</h1>
+      <h2>Using it to learn some DevOps</h2>
+      <h3>Let's stay in touch!</h3>
       <button onClick={handleClick}>Get the message</button>
       <p>{message}</p>
     </div>
